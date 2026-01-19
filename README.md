@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes consumer shopping behavior for a retail business to uncover purchasing trends, customer preferences, and key drivers of repeat purchases. The goal is to support data-driven decisions that improve customer engagement, optimize marketing strategies, and enhance product performance. The project follows an end-to-end analytics workflow using Python, SQL, and Power BI.
+This project analyzes customer shopping behavior for a retail business to uncover purchasing trends, customer preferences, and key drivers of repeat purchases. The goal is to support data-driven decisions that improve customer engagement, optimize marketing strategies, and enhance product performance. The project follows an end-to-end analytics workflow using Python, SQL, and Power BI.
 
 ---
 
